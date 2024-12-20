@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./images and videos/Cover.png" alt="Cover"/>
-</p>
+
 
 # Hospital_Management_System_Dapp
 
